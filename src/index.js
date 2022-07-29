@@ -1,6 +1,11 @@
 console.log('%c HI', 'color: firebrick')
 
 
+function random() {
+    console.log("Hi")
+}
+
+
 function catchEmAll(sldkjf){
     lsdkjflskdjfslkdjflskdjf
     sdlkfjlsdkjf
@@ -46,3 +51,4 @@ switch back to rachel for kicks: git checkout rachel
 
 
 */
+
